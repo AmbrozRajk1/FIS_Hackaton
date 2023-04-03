@@ -18,18 +18,12 @@ for line in content:
 arr = np.array(A)
 
 def move(z,y,x,way):
-    if way == '-x':
-        x -= 1
-    elif way == '+x':
-        x += 1
-    elif way == '-y':
-        y -= 1
-    elif way == '+y':
-        y += 1
-    elif way == '-z':
-        z -= 1
-    elif way == '+z':
-        z += 1
+    if way == '-x': x -= 1
+    elif way == '+x': x += 1
+    elif way == '-y': y -= 1
+    elif way == '+y': y += 1
+    elif way == '-z': z -= 1
+    elif way == '+z': z += 1
     return z,y,x
 
 x = 2
@@ -43,59 +37,35 @@ znamenje = ''
 while c != '*':
     if c in ['<', '>', '^', 'v']:
         if way == '+x':
-            if c == '^':
-                way = '-y'
-            elif c == 'v':
-                way = '+y'
-            elif c == '>':
-                way = '-z'
-            elif c == '<':
-                way = '+z'
+            if c == '^': way = '-y'
+            elif c == 'v': way = '+y'
+            elif c == '>': way = '-z'
+            elif c == '<': way = '+z'
         elif way == '-x':
-            if c == '^':
-                way = '-y'
-            elif c == 'v':
-                way = '+y'
-            elif c == '>':
-                way = '+z'
-            elif c == '<':
-                way = '-z'
+            if c == '^': way = '-y'
+            elif c == 'v': way = '+y'
+            elif c == '>': way = '+z'
+            elif c == '<': way = '-z'
         elif way == '-y':
-            if c == '^':
-                way = '-z'
-            elif c == 'v':
-                way = '+z'
-            elif c == '>':
-                way = '+x'
-            elif c == '<':
-                way = '-x'
+            if c == '^': way = '-z'
+            elif c == 'v': way = '+z'
+            elif c == '>': way = '+x'
+            elif c == '<': way = '-x'
         elif way == '+y':
-            if c == '^':
-                way = '+z'
-            elif c == 'v':
-                way = '-z'
-            elif c == '>':
-                way = '+x'
-            elif c == '<':
-                way = '-x'
+            if c == '^': way = '+z'
+            elif c == 'v': way = '-z'
+            elif c == '>': way = '+x'
+            elif c == '<': way = '-x'
         elif way == '-z':
-            if c == '^':
-                way = '-y'
-            elif c == 'v':
-                way = '+y'
-            elif c == '>':
-                way = '+x'
-            elif c == '<':
-                way = '-x'
+            if c == '^': way = '-y'
+            elif c == 'v': way = '+y'
+            elif c == '>': way = '+x'
+            elif c == '<': way = '-x'
         elif way == '+z':
-            if c == '^':
-                way = '-y'
-            elif c == 'v':
-                way = '+y'
-            elif c == '>':
-                way = '+x'
-            elif c == '<':
-                way = '-x'
+            if c == '^': way = '-y'
+            elif c == 'v': way = '+y'
+            elif c == '>': way = '+x'
+            elif c == '<': way = '-x'
         z,y,x = move(z,y,x,way)
         c = arr[z,y,x]
     elif c.isupper():
