@@ -1,0 +1,161 @@
+Kratica PQD
+Oči = modre
+Barva Las = rjava
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica MUC
+Oči = rjave
+Barva Las = črna
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica CQN
+Oči = modre
+Barva Las = rjava
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica DXJ
+Oči = zelene
+Barva Las = črna
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica VYC
+Oči = modre
+Barva Las = črna
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica ALV
+Oči = rjave
+Barva Las = črna
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica TWE
+Oči = zelene
+Barva Las = rjava
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica WAD
+Oči = rjave
+Barva Las = rjava
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica PHV
+Oči = zelene
+Barva Las = blond
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica SXW
+Oči = zelene
+Barva Las = blond
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica RFD
+Oči = modre
+Barva Las = blond
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica YVI
+Oči = rjave
+Barva Las = rjava
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica EXE
+Oči = zelene
+Barva Las = črna
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica UXO
+Oči = modre
+Barva Las = blond
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica QAB
+Oči = modre
+Barva Las = črna
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica GVO
+Oči = rjave
+Barva Las = rjava
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica SZR
+Oči = rjave
+Barva Las = črna
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica NDF
+Oči = rjave
+Barva Las = blond
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica YCK
+Oči = rjave
+Barva Las = blond
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica TGX
+Oči = rjave
+Barva Las = blond
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica OYX
+Oči = zelene
+Barva Las = rjava
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica YBU
+Oči = zelene
+Barva Las = rjava
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica FLF
+Oči = zelene
+Barva Las = črna
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica SXB
+Oči = modre
+Barva Las = blond
+Oblika Obraza = okrogel
+Lepota = 5
+
+Kratica LYR
+Oči = zelene
+Barva Las = blond
+Oblika Obraza = kvadratast
+Lepota = 5
+
+Kratica QHQ
+Oči = modre
+Barva Las = črna
+Oblika Obraza = podolgovat
+Lepota = 5
+
+Kratica XZP
+Oči = modre
+Barva Las = rjava
+Oblika Obraza = podolgovat
+Lepota = 5
