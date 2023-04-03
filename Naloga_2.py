@@ -17,8 +17,6 @@ d = {'modre':'TGCCGTTAAGGGGTTGTCCAAGTTAATCTAACTCCCAGCATATTCGAGAA',
 '5':'CCGATTATATTTGGAAGTTTCCCATGCTACTCCATCGACTTTTCCACTGA'}
 
 for line in content.split('\n\n'):
-    attribs = line.split('\n')
-    tutor = attribs[0]
     for key, value in d.items():
         if value in DNK and key not in l:
             l.append(key)
